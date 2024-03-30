@@ -2,9 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgb(46, 78, 78);
 }
 
 .wrapper{
+  
   max-width: 1440px;
   width: 100%;
   overflow-x: hidden;
@@ -59,4 +61,8 @@
 .back-btn{
   margin-top: 5px;
   width: 100%;
+}
+.bg1
+{
+  background-color: aqua;
 }

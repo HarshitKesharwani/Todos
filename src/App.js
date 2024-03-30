@@ -33,7 +33,9 @@ function App() {
   return (
     <div className="wrapper ">
       <br></br>
-      <h1 className="text-center ">TODO-APP USING REACT-REDUX</h1>
+      <div className="bg-1">
+        <h1 className="text-center ">TODO-APP USING REACT-REDUX</h1>
+      </div>
       <Form
         editFormVisibility={editFormVisibility}
         editTodo={editTodo}
